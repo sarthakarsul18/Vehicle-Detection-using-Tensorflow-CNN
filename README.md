@@ -1,4 +1,4 @@
-# Vehicle Detection (Car vs Bike) Using CNN (MobileNetV2)
+## 🚗🏍️  Vehicle Detection (Car vs Bike) Using CNN (MobileNetV2)
 
 **Vehicle Detection** is a deep learning-based project designed to automatically distinguish between Two-Wheelers (Bikes) and Four-Wheelers (Cars) from images. Using the power of **Convolutional Neural Networks (CNNs) with MobileNetV2 transfer learning**, this project achieves high accuracy while being lightweight and efficient. A clean and interactive **Streamlit** web application makes the model easy to use, just upload an image, and within seconds, the system predicts whether it’s a car or a bike. This project demonstrates how AI can simplify real-world tasks like traffic monitoring, parking management, and smart city solutions with fast and reliable vehicle recognition..
 
